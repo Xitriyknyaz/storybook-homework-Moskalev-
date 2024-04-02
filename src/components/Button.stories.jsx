@@ -2,7 +2,7 @@ import React from 'react';
 import Button from '../components/Button';
 
 export default {
-  title: 'Button',
+  title: 'Пример/Кнопка',
   component: Button,
   argTypes: {
     color: { control: 'color' }, // Добавляем аргумент для изменения цвета кнопки
